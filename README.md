@@ -5,9 +5,9 @@ The application uses **Retrieval-Augmented Generation (RAG)** to answer question
 
 # Demo Video
 
-```html
+[```html
 <video src="./assets/demo1.mp4" controls width="100%"></video>
-```
+```](https://github.com/Rishabh150102/DeepLearning-RAG-Chatbot/blob/main/assets/demo1.mp4)
 
 # Features
 
