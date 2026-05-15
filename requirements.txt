@@ -1,0 +1,77 @@
+# =========================
+# Core LangChain
+# =========================
+langchain
+langchain-core
+langchain-community
+
+# =========================
+# LLM Providers
+# =========================
+langchain-openai
+langchain-mistralai
+langchain-huggingface
+
+# =========================
+# Embeddings / Transformers
+# =========================
+sentence-transformers
+transformers
+huggingface-hub
+torch
+torchvision
+
+# =========================
+# Vector Database
+# =========================
+chromadb
+
+# =========================
+# Document Loaders
+# =========================
+pypdf
+python-docx
+unstructured
+beautifulsoup4
+
+# =========================
+# Text Splitting / Tokenization
+# =========================
+tiktoken
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Web App / UI
+# =========================
+streamlit
+
+# =========================
+# Data Handling
+# =========================
+pandas
+numpy
+
+# =========================
+# API Requests
+# =========================
+requests
+httpx
+
+# =========================
+# Optional Utilities
+# =========================
+pydantic
+tenacity
+
+# =========================
+# Notebook Support (Optional)
+# =========================
+jupyter
+ipykernel
+
+fastapi 
+uvicorn
